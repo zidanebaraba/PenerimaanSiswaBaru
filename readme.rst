@@ -1,0 +1,5 @@
+- Setiap file Class dan Function diletakan pada folder Application -> controllers
+- Setiap file html / tampilan diletakan pada folder Application -> views.
+- Menggunakan bootstrap Versi 5.0
+- Framework CodeIgniter
+- Database
